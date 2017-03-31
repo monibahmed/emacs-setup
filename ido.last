@@ -1,0 +1,50 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/monibahmed/Documents/Python/" . "data_visualization/")
+ ("/Users/monibahmed/" . ".emacs.d/")
+ ("/Users/monibahmed/Documents/" . "Python/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/monibahmed/Documents/Python/data_visualization/"
+ "/Users/monibahmed/Documents/Python/ULP-PR/"
+ "/Users/monibahmed/.emacs.d/"
+ "/Users/monibahmed/Documents/Python/"
+ "/Users/monibahmed/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "dice_visual.py"
+ "ulp_pr_analysis.py"
+ "init.el"
+ "emacs_demo.py"
+ ".bash_profile"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/monibahmed/Documents/Python/data_visualization/" (22749 15664 0 0) "world_populations.svg" "world_population.py" "square_plots.png" "sitka_weather_2014.csv" "sitka_weather_07-2014.csv" "scatter_squares.py" "rw_walk_line.py" "rw_walk.py" "random_walk.py" "python_repos_m.py" "python_repos.svg" "python_repos.py" "population_data.json" "mpl_squares.py" "hn_submissions.py" "high_lows.py" "die_visual.svg" "die_visual.py" "die.py" "dice_visual.svg" "dice_visual.py" "death_valley_2014.csv" "country_codes.py" "countries.py" "bar_descriptions.py" "americas.svg" "americas.py" "__pycache__/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/monibahmed/Documents/Python/ULP-PR/" (22749 16025 0 0) "Untitled.ipynb" "ulp_pr_analysis.py" ".ipynb_checkpoints/" ".#ulp_pr_analysis.py" "../" "./")
+
+ ("/Users/monibahmed/Documents/" (22749 10980 0 0) "Zikr-i-Illahi.pdf" "Zikr-i-Illahi.pages" "workspace/" "Universal Audio/" "Studio One/" "Python/" "Pro Tools/" "Parallels/" "Native Instruments/" "MonibAhmedResume_DFx.pdf" "MonibAhmedResume_DFx.pages" "MonibAhmedResume.pages" "MonibAhmedCoverLetter_DFx.pdf" "MonibAhmedCoverLetter_DFx.pages" "Max 7/" "MATLAB/" "Jupyter/" "iZotope/" "Flux/" "FileZilla_3.24.1_macosx-x86.app.tar.bz2" "Eventide/" "eagle/" "CE-LearningWeek1.pdf" "Book/" "boat.png" "Arduino/" "Access Music/" "Ableton Live Projects/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/Documents/Python/" (22749 9985 0 0) "ulp-pr_binary.py" "ULP-PR/" "Python_HR/" "pi_digits.txr" "list_codechallenge.py" "learning_log/" "json_test.json" "hello_world.py~" "hello_world.py" "hello_world" "GuessingGame.pyc" "GuessingGame.py" "get-pip.py" "emacs_demo.py~" "emacs_demo.py" "ehlearn_log/" "data_visualization/" "Cars.py" "binary_arithmetic.py" "alien_invasion/" "__pycache__/" ".DS_Store" "#hello_world.py#" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/" (22749 10964 0 0) "tramp" "snippets/" "request/" "init.el~" "init.el" "ido.last" "elpa/" "backups/" "auto-save-list/" "../" "./")
+
+ ("/Users/monibahmed/" (22749 10822 0 0) "Wine Files/" "ti/" "TexTest.toc" "TexTest.tex" "TexTest.pdf" "TexTest.lot" "TexTest.log" "TexTest.lof" "TexTest.aux" "test.tmp" "test.tex" "test.synctex.gz" "test.pdf" "test.log" "test.aux" "table.csv" "ScanApp.log" "Public/" "Polyspace_Workspace/" "Pictures/" "Music/" "Movies/" "miniconda3/" "matlab_crash_dump.21028-1" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "document.toc" "document.tex" "document.synctex.gz" "document.pdf" "document.lot" "document.log" "document.lof" "document.aux" "Desktop/" "C_programs/" "boat.png" "Applications (Parallels)/" "Applications/" ".Xauthority" ".vnc/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rnd" ".qucs/" ".python_history" ".oracle_jre_usage/" ".matplotlib/" ".matlab/" ".local/" ".jupyter/" ".jssc/" ".ipython/" ".idlerc/" ".gitconfig" ".fop/" ".fontconfig/" ".flux/" ".emacs.d/" ".eaglerc" ".dvdcss/" ".DS_Store" ".dropbox/" ".cups/" ".continuum/" ".config/" ".conda/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile-miniconda3.bak" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" "../" "./")
+
+ ("/Users/monibahmed/Documents/Jupyter/" (22749 12384 0 0) "Untitled1.ipynb" "Untitled.ipynb" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Applications/" (22749 8611 0 0) "Xslimmer.app/" "Xcode.app/" "WaveForms.app/" "VNC Viewer.app/" "VLC.app/" "Utilities/" "Universal Audio/" "Time Machine.app/" "The Unarchiver.app/" "TextEdit.app/" "texstudio.app/" "texmaker.app/" "System Preferences.app/" "Sublime Text.app/" "Studio One 3.app/" "Stickies.app/" "Soundtoys/" "Skype.app/" "Safari.app/" "Rosetta Stone TOTALe.app/" "Roland/" "Reminders.app/" "QuickTime Player.app/" "qbittorrent.app/" "Python 3.6/" "Preview.app/" "Plugin Alliance/" "Photos.app/" "Photo Booth.app/" "Parallels Toolbox.app/" "Parallels Desktop.app/" "Pages.app/" "OnyX.app/" "Notes.app/" "Native Instruments/" "Monolingual.app/" "Mission Control.app/" "Microsoft Word.app/" "Microsoft PowerPoint.app/" "Microsoft OneNote.app/" "Microsoft Excel.app/" "Messages.app/" "Melodyne 4/" "Max.app/" "MATLAB_R2016a.app/" "Maps.app/" "Malwarebytes Anti-Malware.app/" "Mail.app/" "Logic Pro X.app/" "License Control Center.app/" "Launchpad.app/" "iTunes.app/" "Image Capture.app/" "iLok License Manager.app/" "iBooks.app/" "Guitar Rig 3/" "GoToMeeting/" "Google Drive.app/" "Google Chrome.app/" "Game Center.app/" "Font Book.app/" "FluxCenter.app/" "FaceTime.app/" "Exceed onDemand Client.app/" "Emacs.app/" "EAGLE-7.7.0/" "DVD Player.app/" "Dropbox.app/" "Disk Inventory X.app/" "Dictionary.app/" "Dashboard.app/" "Contacts.app/" "CleanMyMac 3.app/" "Cisco/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Bass Station II Librarian.app/" "Automator.app/" "Arturia/" "Aquamacs.app/" "App Store.app/" "Access Music/" "Ableton Live 9 Suite.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (22311 60816 0 0) "Shared/" "monibahmed/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

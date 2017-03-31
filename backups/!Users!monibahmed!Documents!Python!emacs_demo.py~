@@ -1,0 +1,23 @@
+a_list = ['this', 'is', 'emacs']
+print(a_list)
+
+
+def myprint_a_list(a_list):
+    for item in a_list:
+        print(item)
+
+
+myprint_a_list(a_list)
+a_list.append('YAY')
+myprint_a_list(a_list)
+a_list.append('HAY')
+for item in a_list:
+    print(item.title())
+print('1')
+a_list.append('I LOVE YOU')
+myprint_a_list(a_list)
+
+
+a_list.append('BLAHBLAH')
+
+myprint_a_list(a_list)
