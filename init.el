@@ -35,7 +35,7 @@
 ;; --------------------------------------
 
 (setq inhibit-startup-message t) ;; hide the startup message
-;;(load-theme 'material t) ;; load material theme
+(load-theme 'material t) ;; load material theme
 (global-linum-mode t) ;; enable line numbers globally
 (setq-default indent-tabs-mode nil)
 
@@ -57,6 +57,18 @@
 
 (require 'py-autopep8)
 (add-hook 'elpy-mode-hook 'py-autopep8-enable-on-save)
+
+;;To fix readline error
+(with-eval-after-load 'python3
+  (defun python-shell-completion-native-try ()
+    "Return non-nil if can trigger native completion."
+    (let ((python-shell-completion-native-enable t)
+          (python-shell-completion-native-output-timeout
+           python-shell-completion-native-try-output-timeout))
+      (python-shell-completion-native-get-completions
+       (get-buffer-process (current-buffer))
+       nil "_"))))
+
 
 ;; init.el ends here
 (custom-set-variables
