@@ -1,0 +1,60 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/monibahmed/Documents/" . "Python/")
+ ("/Users/monibahmed/" . ".emacs.d/")
+ ("/Users/monibahmed/Desktop/Books/Computer Science/Django/" . "HTML_LEVEL_ONE/")
+ ("/Users/monibahmed/Desktop/Books/Computer Science/" . "Django/")
+ ("/Users/monibahmed/Desktop/Books/" . "Computer Science/")
+ ("/Users/monibahmed/Desktop/" . "Books/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/monibahmed/.emacs.d/"
+ "/"
+ "/Users/monibahmed/Desktop/Books/Computer Science/Django/HTML_LEVEL_ONE/"
+ "/Users/monibahmed/Documents/Python/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ ".com.apple.timemachine.donotpresent"
+ "test.html"
+ "readme.md"
+ "Cars.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/" (22797 61428 0 0) "Shared/" "monibahmed/" "Guest/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/" (22806 23905 0 0) "tramp" "snippets/" "request/" "README.md" "plugins/" "init.el" "ido.last" "elpa/" "backups/" "auto-save-list/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/monibahmed/Desktop/Books/Computer Science/Django/HTML_LEVEL_ONE/" (22806 23749 0 0) "test.html" "readme.md" "#test.html#" "../" "./")
+
+ ("/Users/monibahmed/" (22806 23906 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Monib’s MacBook Pro-5.3.1" ".zcompdump-Monib’s MacBook Pro-5.0.8" ".Xauthority" ".vnc/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".qucs/" ".python_history" ".plotly/" ".oracle_jre_usage/" ".oh-my-zsh/" ".netrc" ".matplotlib/" ".matlab/" ".local/" ".lesshst" ".jupyter/" ".jssc/" ".ipython/" ".inputrc" ".gitconfig" ".fop/" ".flux/" ".emacs.d/" ".eaglerc" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile~" ".bash_profile-miniconda3.bak" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".anaconda_backup/" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/plugins/yasmate/" (22806 23662 0 0) "yasmate.rb" "snippets/" "README.md" "Rakefile" "LICENSE" "bundles/" ".gitmodules" ".gitignore" ".git" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/plugins/" (22806 23659 0 0) "yasnippet.el" "yasnippet-tests.el" "yasnippet-debug.el" "yasmate/" "snippets/" "README.mdown" "Rakefile" "NEWS" "doc/" "CONTRIBUTING.md" ".travis.yml" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/monibahmed/Documents/Python/" (22794 27488 0 0) "umich_datascience/" "ulp-pr_binary.py" "ULP-PR/" "PythonUdemy/" "Python_HR/" "python-getting-started/" "pi_digits.txr" "people_class/" "OOPwithPython/" "mathwithpython/" "map_example.py" "list_codechallenge.py" "learning_log/" "json_test.json" "hello_world.py~" "hello_world.py" "hello_world" "GuessingGame.pyc" "GuessingGame.py" "get-pip.py" "emacs_demo.py~" "emacs_demo.py" "ehlearn_log/" "data_visualization/" "classes/" "Cars.py" "binary_arithmetic.py" "automatepython/" "alien_invasion/" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/Documents/" (22799 26578 0 0) "Zoom/" "Zikr-i-Illahi.pdf" "Zikr-i-Illahi.pages" "workspace/" "WebEx/" "Universal Audio/" "Studio One/" "Python/" "Pro Tools/" "Parallels/" "OneDrive - Atlazo Inc/" "Native Instruments/" "MonibAhmedResume_DFx.pdf" "MonibAhmedResume_DFx.pages" "MonibAhmedResume.pages" "MonibAhmedCoverLetter_DFx.pdf" "MonibAhmedCoverLetter_DFx.pages" "MKA_bigdata.md" "Microsoft User Data/" "Max 7/" "MATLAB/" "Jupyter/" "iZotope/" "From Desktop/" "Flux/" "Eventide/" "eagle/" "CE-LearningWeek1.pdf" "Book/" "Arduino/" "Access Music/" "Ableton Live Projects/" ".localized" ".DS_Store" ".#MKA_bigdata.md" "#MKA_bigdata.md#" "../" "./")
+
+ ("/Users/monibahmed/Desktop/Books/Computer Science/Django/" (22805 58131 0 0) "HTML_LEVEL_ONE/" "../" "./")
+
+ ("/Users/monibahmed/Desktop/Books/Computer Science/" (22805 56112 0 0) "Python/" "Django/" "Deep Learning/" "Data Visualization/" "Computer Architecture/" "Black - SystemC From the Ground Up.pdf" "Banerjee - SystemC and SystemC-AMS.pdf" "9781785286650-MASTERING_C_CONCURRENCY.pdf" "9781783553730-GIT_BEST_PRACTICES_GUIDE.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/Desktop/Books/" (22793 27367 0 0) "Electrical Engneering/" "Computer Science/" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/Desktop/" (22802 23620 0 0) "PDK/" "Books/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/auto-save-list/" (22805 57639 0 0) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
