@@ -2,8 +2,9 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/monibahmed/Documents/Python/" . "OOPwithPython/")
  ("/Users/monibahmed/Documents/" . "Python/")
- ("/Users/monibahmed/" . ".emacs.d/")
+ ("/Users/monibahmed/" . "Documents/")
  ("/Users/monibahmed/Desktop/Books/Computer Science/Django/" . "HTML_LEVEL_ONE/")
  ("/Users/monibahmed/Desktop/Books/Computer Science/" . "Django/")
  ("/Users/monibahmed/Desktop/Books/" . "Computer Science/")
@@ -12,38 +13,42 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/monibahmed/Documents/Python/OOPwithPython/"
  "/Users/monibahmed/.emacs.d/"
+ "/Users/monibahmed/Documents/Python/"
  "/"
  "/Users/monibahmed/Desktop/Books/Computer Science/Django/HTML_LEVEL_ONE/"
- "/Users/monibahmed/Documents/Python/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "Chapter_1.py"
  "init.el"
+ "Cars.py"
  ".com.apple.timemachine.donotpresent"
  "test.html"
  "readme.md"
- "Cars.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/monibahmed/Documents/Python/OOPwithPython/" (22806 26823 0 0) "readme.md" "chapter_3_diamond_problem.py" "chapter_3.py" "chapter_2.py" "Chapter_1_multiple_inheritance.py" "Chapter_1.py" "Chapter5_Sort.py" "Chapter4_properties.py" "Chapter4_exceptions.py" "chapter3_audiofile.py" "chapeter_5_empty_objects.py" "ch2_notebook/" ".gitignore" ".git/" ".#Chapter_1.py" "#Chapter_1.py#" "../" "./")
+
+ ("/Users/monibahmed/.emacs.d/" (22806 36053 0 0) "tramp" "request/" "README.md" "plugins/" "init.el" "ido.last" "elpa/" "auto-save-list/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/monibahmed/Documents/Python/" (22806 33780 0 0) "umich_datascience/" "ulp-pr_binary.py" "ULP-PR/" "PythonUdemy/" "Python_HR/" "python-getting-started/" "pi_digits.txr" "people_class/" "OOPwithPython/" "mathwithpython/" "map_example.py" "list_codechallenge.py" "learning_log/" "json_test.json" "hello_world.py~" "hello_world.py" "hello_world" "GuessingGame.pyc" "GuessingGame.py" "get-pip.py" "emacs_demo.py~" "emacs_demo.py" "ehlearn_log/" "data_visualization/" "classes/" "Cars.py" "binary_arithmetic.py" "automatepython/" "alien_invasion/" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/monibahmed/Documents/" (22806 21987 0 0) "Zoom/" "Zikr-i-Illahi.pdf" "Zikr-i-Illahi.pages" "workspace/" "WebEx/" "Universal Audio/" "test.html" "Studio One/" "Python/" "Pro Tools/" "Parallels/" "OneDrive - Atlazo Inc/" "Native Instruments/" "MonibAhmedResume_DFx.pdf" "MonibAhmedResume_DFx.pages" "MonibAhmedResume.pages" "MonibAhmedCoverLetter_DFx.pdf" "MonibAhmedCoverLetter_DFx.pages" "MKA_bigdata.md" "Microsoft User Data/" "Max 7/" "MATLAB/" "Jupyter/" "iZotope/" "From Desktop/" "Flux/" "Eventide/" "eagle/" "CE-LearningWeek1.pdf" "Book/" "Arduino/" "Access Music/" "Ableton Live Projects/" ".localized" ".DS_Store" ".#MKA_bigdata.md" "#MKA_bigdata.md#" "../" "./")
+
+ ("/Users/monibahmed/" (22806 35913 0 0) "SETUP_E/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Monib’s MacBook Pro-5.3.1" ".zcompdump-Monib’s MacBook Pro-5.0.8" ".Xauthority" ".vnc/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".smex-items" ".rstudio-desktop/" ".rnd" ".Rhistory" ".qucs/" ".python_history" ".plotly/" ".oracle_jre_usage/" ".oh-my-zsh/" ".netrc" ".matplotlib/" ".matlab/" ".local/" ".lesshst" ".jupyter/" ".jssc/" ".ipython/" ".inputrc" ".gitconfig" ".fop/" ".flux/" ".emacs.d/" ".eaglerc" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile~" ".bash_profile-miniconda3.bak" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".anaconda_backup/" "../" "./")
+
  ("/Users/" (22797 61428 0 0) "Shared/" "monibahmed/" "Guest/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/monibahmed/.emacs.d/" (22806 23905 0 0) "tramp" "snippets/" "request/" "README.md" "plugins/" "init.el" "ido.last" "elpa/" "backups/" "auto-save-list/" ".gitignore" ".git/" "../" "./")
-
  ("/Users/monibahmed/Desktop/Books/Computer Science/Django/HTML_LEVEL_ONE/" (22806 23749 0 0) "test.html" "readme.md" "#test.html#" "../" "./")
-
- ("/Users/monibahmed/" (22806 23906 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Monib’s MacBook Pro-5.3.1" ".zcompdump-Monib’s MacBook Pro-5.0.8" ".Xauthority" ".vnc/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".qucs/" ".python_history" ".plotly/" ".oracle_jre_usage/" ".oh-my-zsh/" ".netrc" ".matplotlib/" ".matlab/" ".local/" ".lesshst" ".jupyter/" ".jssc/" ".ipython/" ".inputrc" ".gitconfig" ".fop/" ".flux/" ".emacs.d/" ".eaglerc" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile~" ".bash_profile-miniconda3.bak" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".anaconda_backup/" "../" "./")
 
  ("/Users/monibahmed/.emacs.d/plugins/yasmate/" (22806 23662 0 0) "yasmate.rb" "snippets/" "README.md" "Rakefile" "LICENSE" "bundles/" ".gitmodules" ".gitignore" ".git" "../" "./")
 
  ("/Users/monibahmed/.emacs.d/plugins/" (22806 23659 0 0) "yasnippet.el" "yasnippet-tests.el" "yasnippet-debug.el" "yasmate/" "snippets/" "README.mdown" "Rakefile" "NEWS" "doc/" "CONTRIBUTING.md" ".travis.yml" ".gitmodules" ".gitignore" ".git/" "../" "./")
-
- ("/Users/monibahmed/Documents/Python/" (22794 27488 0 0) "umich_datascience/" "ulp-pr_binary.py" "ULP-PR/" "PythonUdemy/" "Python_HR/" "python-getting-started/" "pi_digits.txr" "people_class/" "OOPwithPython/" "mathwithpython/" "map_example.py" "list_codechallenge.py" "learning_log/" "json_test.json" "hello_world.py~" "hello_world.py" "hello_world" "GuessingGame.pyc" "GuessingGame.py" "get-pip.py" "emacs_demo.py~" "emacs_demo.py" "ehlearn_log/" "data_visualization/" "classes/" "Cars.py" "binary_arithmetic.py" "automatepython/" "alien_invasion/" "__pycache__/" ".DS_Store" "../" "./")
-
- ("/Users/monibahmed/Documents/" (22799 26578 0 0) "Zoom/" "Zikr-i-Illahi.pdf" "Zikr-i-Illahi.pages" "workspace/" "WebEx/" "Universal Audio/" "Studio One/" "Python/" "Pro Tools/" "Parallels/" "OneDrive - Atlazo Inc/" "Native Instruments/" "MonibAhmedResume_DFx.pdf" "MonibAhmedResume_DFx.pages" "MonibAhmedResume.pages" "MonibAhmedCoverLetter_DFx.pdf" "MonibAhmedCoverLetter_DFx.pages" "MKA_bigdata.md" "Microsoft User Data/" "Max 7/" "MATLAB/" "Jupyter/" "iZotope/" "From Desktop/" "Flux/" "Eventide/" "eagle/" "CE-LearningWeek1.pdf" "Book/" "Arduino/" "Access Music/" "Ableton Live Projects/" ".localized" ".DS_Store" ".#MKA_bigdata.md" "#MKA_bigdata.md#" "../" "./")
 
  ("/Users/monibahmed/Desktop/Books/Computer Science/Django/" (22805 58131 0 0) "HTML_LEVEL_ONE/" "../" "./")
 

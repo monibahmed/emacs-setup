@@ -64,9 +64,9 @@
 (setq elpy-rpc-python-command "python3")
 
 (elpy-enable)
-(elpy-use-ipython)
-(setq python-shell-interpreter "ipython"
-    python-shell-interpreter-args "--simple-prompt -i")
+;;(elpy-use-ipython)
+;;(setq python-shell-interpreter "ipython"
+;;    python-shell-interpreter-args "--simple-prompt -i")
 
 (when (require 'flycheck nil t)
   (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
